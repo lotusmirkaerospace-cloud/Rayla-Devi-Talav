@@ -1,0 +1,31 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_51A2BCAB_5F62_82C6_41D4_A3011DAAD675.label = Amphitheatre Final
+panorama_520863D4_5F62_8641_41B3_B25B00940250.label = East Final
+panorama_5209EADC_5F62_8641_41CB_62F8D6A13037.label = North 1 - Along Shoreline
+panorama_520931E5_5F61_8243_41C9_E129CB176792.label = North 2 - Perpendicular to South
+panorama_53B07897_5F4E_F850_41D5_9818CE114EAE.label = South Final
+
+## Skin
+
+### Button
+Button_42A7EEF6_52C5_EB0B_41BB_B038D4BAEC6B.label = East 
+Button_42A7EEF6_52C5_EB0B_41BB_B038D4BAEC6B_mobile.label = East 
+Button_4FA723BE_5F3F_5C62_41C3_F5F7CE2A499D_mobile.label = North  1
+Button_4FA723BE_5F3F_5C62_41C3_F5F7CE2A499D.label = North  1
+Button_5196ED2E_5F61_83C1_41C1_84CBC09DB339_mobile.label = North  2
+Button_5196ED2E_5F61_83C1_41C1_84CBC09DB339.label = North  2
+Button_5D7675A9_52CF_3918_41BE_A4F22FF499CD.label = South
+Button_5D7675A9_52CF_3918_41BE_A4F22FF499CD_mobile.label = South
+Button_42BF3FC5_52C5_E908_41BE_1CA601D82C05.label = West 
+Button_42BF3FC5_52C5_E908_41BE_1CA601D82C05_mobile.label = West 
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rayla Devi Lake 
